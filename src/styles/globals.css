@@ -29,5 +29,5 @@ code[class*='language-'] {
   @apply font-mono !important;
 }
 .plyr .plyr__captions--active track {
-  font-size: 1.5em;
+  font-size: 2.0em;
 }
