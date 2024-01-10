@@ -28,3 +28,6 @@ pre[class*='language-'],
 code[class*='language-'] {
   @apply font-mono !important;
 }
+.plyr .plyr__captions--active track {
+  font-size: 1.5em;
+}
